@@ -1,0 +1,33 @@
+Este documento trará um esboço de todas as tags HTML estudadas, de modo a ser um sistema de consulta fácil com as tags e seus significados.
+
+Links e âncoras:
+
+<a href="link desejado" target="_self(para abrir links dentro do site) ou _blank(para abrir links externos)"></a>
+
+Tabelas:
+
+    <table>
+        <tr "são as linhas">
+            <td "são as colunas"></td>
+        </tr>
+    </table>
+
+Listas ordenadas e não ordenadas:
+
+Ordenada:
+<ol start=" de onde se deseja começar a contar" type="1, A, a, I">
+            <li>casa</li>
+            <li>carro</li>
+        </ol>
+
+Não ordenada:
+        <ul type="square, circle ou none">
+            <li>casa</li>
+            <li>carro</li>
+        </ul>
+
+Inserção de imagens:
+
+<img src=" endereço da imagem" alt=" texto alternativo(serve para SEO e acessibilidade">
+
+
